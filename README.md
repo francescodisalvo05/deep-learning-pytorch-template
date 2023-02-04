@@ -2,22 +2,23 @@
 
 ### To do:
 
-- [ ] Folder structure
+- [x] Folder structure
 - [ ] Training / Validation / Testing pipeline
-- [ ] Models
+- [x] Models
+- [x] Add custom losses and metrics
 - [ ] Load model checkpoints
 - [ ] Autosave best models
 - [ ] Logging messages
-- [ ] Dataset 
-- [ ] Dataset transformations
+- [x] Dataset 
+- [x] Dataset transformations
 - [ ] Utils functions -> plot images, samples and so on
 - [ ] Store results / plots / metrics and so on
-- [ ] Fix random seed
+- [x] Set random seed
 - [ ] Training and Validation plots (e.g. tensorboard) 
 - [ ] Full gpu-support
-- [ ] Schedulers
+- [x] Training settings (scheduler, augmentation, early stopping)
 - [ ] Torchsummary
-- [ ] Hyperparams with YAML
+- [x] Hyperparams with YAML
 
 ### Bonus
 Read the [tuning-playbook](https://github.com/google-research/tuning_playbook) and see if there is some tuning best practice that can be pre-coded. 
