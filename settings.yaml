@@ -2,6 +2,8 @@
 data_path: '...'
 save_dir: '...'
 save_dir_metrics: '...'
+load_ckpt_filepath : '...' 
+store_ckpt_path: '...'
 
 
 # general settings
