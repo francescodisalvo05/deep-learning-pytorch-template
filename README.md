@@ -3,11 +3,11 @@
 ### To do:
 
 - [x] Folder structure
-- [ ] Training / Validation / Testing pipeline
+- [x] Training / Validation / Testing pipeline
 - [x] Models
 - [x] Add custom losses and metrics
-- [ ] Load model checkpoints
-- [ ] Autosave best models
+- [x] Load model checkpoints
+- [x] Autosave best models
 - [ ] Logging messages
 - [x] Dataset 
 - [x] Dataset transformations
@@ -17,7 +17,6 @@
 - [ ] Training and Validation plots (e.g. tensorboard) 
 - [ ] Full gpu-support
 - [x] Training settings (scheduler, augmentation, early stopping)
-- [ ] Torchsummary
 - [x] Hyperparams with YAML
 
 ### Bonus
