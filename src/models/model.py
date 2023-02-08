@@ -9,6 +9,10 @@ class MyModel(nn.Module):
         super().__init__()
         pass
 
+    
+    def __len__(self):
+        pass
+
 
     def forward(self, x):
         pass
