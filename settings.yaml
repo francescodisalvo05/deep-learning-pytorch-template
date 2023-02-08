@@ -9,7 +9,6 @@ results_path: '...'
 verbose: False
 show_training: True
 seed: 42
-device: cuda
 verbose: True
 
 
