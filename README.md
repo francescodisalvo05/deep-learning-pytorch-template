@@ -18,6 +18,3 @@
 - [x] Full gpu-support
 - [x] Training settings (scheduler, augmentation, early stopping)
 - [x] Hyperparams with YAML
-
-### Bonus
-Read the [tuning-playbook](https://github.com/google-research/tuning_playbook) and see if there is some tuning best practices that can be pre-coded. 
